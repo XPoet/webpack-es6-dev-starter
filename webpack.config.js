@@ -39,7 +39,7 @@ module.exports = {
   // 配置插件
   plugins: [
     new htmlWebpackPlugin({
-      template: 'public/index.html',
+      template: 'src/index.html',
       filename: 'index.html',
       inject: true
     })

@@ -1,17 +1,16 @@
 {
-  "name": "JS-Data-Structures-and-Algorithms",
+  "name": "webpack-es6-dev-template",
   "version": "1.0.0",
-  "description": "JavaScript 数据结构与算法",
+  "description": "使用 Webpack 搭建 ES6 开发模板",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --mode development --open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --mode development --open"
   },
   "keywords": [
-    "JavaScript",
-    "数据结构",
-    "算法"
+    "webpack",
+    "babel",
+    "es6"
   ],
   "author": "XPoet",
   "license": "ISC",

@@ -1,1 +1,1 @@
-[1, 2, 3, 4, 5].map(item => console.log(item))
+// 在这里编写你的 ES6 代码
