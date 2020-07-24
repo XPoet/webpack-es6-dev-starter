@@ -45,7 +45,7 @@ module.exports = {
     })
   ],
 
-  // 开发服务
+  // 本地开发服务
   devServer: {
     contentBase: './dist',
     host: 'localhost',
