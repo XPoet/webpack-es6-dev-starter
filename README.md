@@ -1,5 +1,7 @@
 # Webpack 搭建 ES6 开发环境
 
+从零开始，使用 Webpack 搭建 ES6 开发环境。
+
 ## 安装模块
 
 ### 创建 package.json 文件
